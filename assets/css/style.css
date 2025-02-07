@@ -756,6 +756,10 @@ header .navbar-default.scrolled ul.navbar-nav li a.active:after {
 header.inverted #topbar .top-divider {
   border-bottom: 1px solid rgba(0,0,0,0.3);
 }
+
+.video-text {
+    font-size: 47px !important;
+}
 .main-slider {
   background-attachment: fixed;
   background-position: 50% 0%;
@@ -1393,6 +1397,9 @@ footer .social-links a {
   }
   .project {
     width: 100%;
+  }
+  .video-text{
+      font-size: 29px !important;
   }
 }
 
