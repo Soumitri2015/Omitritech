@@ -1201,6 +1201,7 @@ footer .social-links a {
   max-width: 100%;
   max-height: 100%;
   opacity: 0.9;
+  aspect-ratio: 3/2;
 }
 .gallery-item-title {
   font-size: 18px;
@@ -1401,5 +1402,12 @@ footer .social-links a {
     position: relative;
     right: 505px;
   }
+  #gt-rd-h4{
+    margin-left: 0px;
+  }
   
+}
+
+#gt-rd-h4{
+  margin-left: 57px;
 }
